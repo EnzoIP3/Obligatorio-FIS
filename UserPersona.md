@@ -1,4 +1,4 @@
-1. User Persona: Profesor
+# User Persona: Profesor #
 
 Nombre: Prof. Laura Sánchez
 
@@ -23,7 +23,8 @@ Desafíos:
 
 Mantener la calidad de su enseñanza mientras se adapta a las nuevas tecnologías.
 Gestionar múltiples reservas y pagos.
-2. User Persona: Estudiante
+
+# User Persona: Estudiante #
 
 Nombre: Miguel Álvarez
 
